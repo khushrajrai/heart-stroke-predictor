@@ -16,10 +16,10 @@ A **Streamlit web app** is used for an easy and interactive UI.
 
 ## 🛠️ Tech Stack
 
--   Python 3.12.5\
--   Scikit-Learn\
--   Pandas, NumPy\
--   Streamlit\
+-   Python 3.12.5
+-   Scikit-Learn
+-   Pandas, NumPy
+-   Streamlit
 -   Joblib/Pickle
 
 ------------------------------------------------------------------------
@@ -49,23 +49,23 @@ streamlit run app.py
 
 ## 🧠 Model
 
--   Data preprocessing\
--   Training using ML algorithms (e.g., Logistic Regression /KNN Classification)\
--   Evaluation with accuracy, precision, recall\
+-   Data preprocessing
+-   Training using ML algorithms (e.g., Logistic Regression /KNN Classification)
+-   Evaluation with accuracy, precision, recall
 
 ------------------------------------------------------------------------
 
 ## 🖥️ Streamlit App Inputs
 
--   Age\
--   Sex\
--   Chest Pain Type\
--   Resting Blood Pressure\
--   Cholesterol\
--   Fasting Blood Sugar\
--   Resting ECG\
--   Exercise-Induced Angina\
--   Oldpeak (ST Depression)\
+-   Age
+-   Sex
+-   Chest Pain Type
+-   Resting Blood Pressure
+-   Cholesterol
+-   Fasting Blood Sugar
+-   Resting ECG
+-   Exercise-Induced Angina
+-   Oldpeak (ST Depression)
 -   ST Slope
 
 The app returns risk of Heart disease.
